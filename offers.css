@@ -1,0 +1,63 @@
+#navbar{
+    background-image: url(./hair-salon-logo-.jpg);
+    background-size: 12% 100px;
+    background-repeat: no-repeat;   
+        margin: 0px;
+        width: 100%;
+        height: 100px;
+        background-color:rgb(5, 4, 4);
+        margin-top: -16px; 
+        float:right; 
+ }
+
+#main{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 300px;
+}
+
+.li1{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(19, 5, 5);
+    margin-left: -40px;
+    margin-right: 100px;
+
+}
+.li1:hover{
+    padding-top: 35px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(240, 6, 6);
+    
+}
+#BookAPP{
+    margin-left: 200PX;
+    font-size: 20PX;
+  border: 3.5PX red groove;
+  width: 150PX;
+  background-color:gray;
+}
+#BookAPP:hover{
+    background-color: rgb(38, 171, 35);
+    width:150px ;
+    
+    
+}
+#active{
+    background-color: red;
+}
+
+a{
+    color:white;
+    text-decoration: none;    
+}
